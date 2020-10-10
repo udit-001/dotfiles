@@ -1,0 +1,8 @@
+set const
+set softwrap
+set speller "aspell -x -c"
+set tabsize 4
+set tabstospaces
+set autoindent
+set smooth
+set linenumbers
